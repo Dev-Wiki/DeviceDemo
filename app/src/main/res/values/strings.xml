@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DeviceDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello device!</string>
+    <string name="close_video">关闭</string>
+    <string name="switch_camera">切换摄像头</string>
+    <string name="camera_image">camera image</string>
+    <string name="reject_video">拒绝</string>
+    <string name="accept_video">接受</string>
+    
+</resources>

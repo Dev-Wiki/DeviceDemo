@@ -3,7 +3,6 @@ package com.tencent.devicedemo;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.tencent.av.VideoController;
 import com.tencent.device.TXBinderInfo;
 import com.tencent.device.TXDeviceService;
 

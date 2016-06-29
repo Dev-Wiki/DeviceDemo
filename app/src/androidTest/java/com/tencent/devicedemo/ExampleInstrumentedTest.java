@@ -1,4 +1,4 @@
-package com.tecent.devicedemo;
+package com.tencent.devicedemo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -1,4 +1,4 @@
-package com.tecent.devicedemo;
+package com.tencent.devicedemo;
 
 import org.junit.Test;
 
